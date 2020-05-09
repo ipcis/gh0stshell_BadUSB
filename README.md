@@ -9,7 +9,7 @@ Together with our Gh0stshell Multiplexer Pentesters can use this device to initi
 Sys-Admins can use it to automate stuff.
 
 ## Features
-+ Looks like a USB Drives
++ Looks like a USB Drive
 + Simulate a Keyboard 
 + Inject keystrokes ultra fast 
 + Fully customizable
