@@ -15,6 +15,16 @@ Sys-Admins can use it to automate stuff.
 + Fully customizable
 + Works without installation under almost any OS/device
 
+## How to
+1. Buy the Gh0stshell BadUSB
+2. Goto https://www.arduino.cc/en/Main/Software and download and install the Arduino Software (IDE)
+3. Run the Arduino Software (IDE)
+4. Choose one of our Code-Samples from this repository and paste it into the Arduino Software (IDE)
+5. Choose under Tools->Board (Arduino Leonardo)
+6. Press verify and compile
+
+Now the stick is prepared and you can use it on the target device!
+
 ## Where can I buy it?
 Coming soon...
 
