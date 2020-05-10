@@ -3,7 +3,7 @@
 
 ## What is Gh0stshell BadUSB?
 Gh0stshell BadUSB looks like an USB-Drive but is a virtual Keyboard.
-You can use it for multiply pupose, you can use it for pentest task, automate things or other hardware hacking stuff.
+You can use it for multiply pupose, you can use it for pentest tasks, to automate things or other cool hardware hacking stuff.
 
 Together with our Gh0stshell Multiplexer Pentesters can use this device to initiate reverse shells.
 Sys-Admins can use it to automate stuff.
