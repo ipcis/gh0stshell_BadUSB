@@ -1,4 +1,4 @@
-<img src="https://ghostshell.de/gs_logo.png" height="50%"> 
+<img src="https://ghostshell.de/images/logo_white_trans.png" height="50%"> 
 
 
 ## What is Ghostshell USB?
